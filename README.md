@@ -1,4 +1,7 @@
 ovh-DynDNS
+
+Originally from https://github.com/denouche/ovh-dyndns, being fixed for FreeBSD
+
 =========
 
 Use this script in a cron to update a given A record in your DNS zone, using OVH API.
